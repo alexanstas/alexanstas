@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28"
+   height="28"
+   viewBox="0 0 7.4083332 7.4083333"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient1"><stop
+         style="stop-color:#00255e;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#0061eb;stop-opacity:1;"
+         offset="1"
+         id="stop2" /></linearGradient><linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0.5975911"
+       y1="1.6867332"
+       x2="6.8107424"
+       y2="5.721601"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer1"><rect
+       style="fill:url(#linearGradient2);stroke-width:0.363024"
+       id="rect1"
+       width="7.4083333"
+       height="7.4083333"
+       x="0"
+       y="0"
+       ry="0.93381906" /><path
+       fill="none"
+       stroke="currentColor"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.381838"
+       d="m 1.2494586,2.6131295 1.7768177,1.1847148 c 0.2451396,0.1631719 0.3675822,0.2448851 0.4999525,0.2767048 0.117097,0.028001 0.2390304,0.028001 0.3558727,0 0.1323704,-0.03182 0.254813,-0.1135329 0.4999527,-0.2767048 L 6.1588717,2.6131295 M 2.471339,5.6133546 h 2.4656524 c 0.4276581,0 0.6414872,0 0.8049136,-0.083241 A 0.76367514,0.76367514 0 0 0 6.0753765,5.196388 C 6.1588713,5.0329615 6.1588713,4.8191324 6.1588713,4.3914744 V 3.0168591 c 0,-0.4276581 0,-0.6414871 -0.083241,-0.8049136 A 0.76367514,0.76367514 0 0 0 5.7419047,1.8782194 C 5.5784782,1.7949786 5.3646491,1.7949786 4.9369911,1.7949786 H 2.4713386 c -0.4276583,0 -0.6414873,0 -0.8049133,0.083241 A 0.76367514,0.76367514 0 0 0 1.332954,2.2119452 C 1.249462,2.3753717 1.249462,2.5892008 1.249462,3.0168588 v 1.3746153 c 0,0.4276581 0,0.6414871 0.083242,0.8049136 a 0.76367514,0.76367514 0 0 0 0.3337263,0.333726 c 0.163426,0.083241 0.377255,0.083241 0.8049133,0.083241"
+       id="path1"
+       style="stroke:#ffffff" /></g></svg>
